@@ -300,7 +300,7 @@ entityDef damage_grenadeDirect
 entityDef damage_grenadeDirect_mp
 {
 	"inherit"					"damage_grenadeDirect"
-	"damage"					"200"
+	"damage"					"250"
 	"knockback"					"110"
 }
 
